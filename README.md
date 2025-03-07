@@ -2,7 +2,7 @@
 
 A beautiful, interactive web application created as a special gift for Women's Day.
 
-## 💖 Created by [caigicungdev](https://github.com/caigicungdev)
+## 💖 Created by [Trung Lor](https://github.com/trungdevpi)
 
 ## 🌟 Features
 
@@ -56,4 +56,4 @@ You can customize the messages by editing the messages array in the MessageCard.
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Made with ❤️ by caigicungdev# cute_web
+Made with ❤️ by trungdevpi# cute_web
